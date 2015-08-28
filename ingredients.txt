@@ -1,1 +1,5 @@
 avocados
+tomato
+onion
+salt 
+pepper
